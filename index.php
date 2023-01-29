@@ -23,7 +23,7 @@
         <th scope="col">A && B</th>
         <th scope="col">A xor B</th>
       </tr>
-      </thead>
+    
       <tbody>
         <tr>
           <td>0</td>
@@ -155,8 +155,7 @@
         <td>null</td>
         <td>"php"</td>
       </tr>
-      </thead>
-
+     
       <tr>
         <td id="col">true</td>
         <td>
@@ -392,7 +391,7 @@
         <td>null</td>
         <td>"php"</td>
       </tr>
-      </thead>
+     
 
       <tr>
         <td id="col">true</td>
