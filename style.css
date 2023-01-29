@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+table {
+width: 800px;
+font-family: 'Franklin Gothic Medium';
+
+}
+td {
+width: 150px;
+}
+#col {
+    background-color: rgb(210, 205, 205);
+    color: black;
+}
+div {
+    margin: 40px 150px 60px 150px;
+}
